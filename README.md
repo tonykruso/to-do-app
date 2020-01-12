@@ -6,4 +6,5 @@ uses HTML as framework, CSS for styling, JavaScript for functions.
 
 see a clip of it working here: https://drive.google.com/file/d/1mATGKRNHs7pif_9foEd1Msd74MipwEa8/view
 
+use the app here: https://tonykruso.github.io/to-do-app/
 
